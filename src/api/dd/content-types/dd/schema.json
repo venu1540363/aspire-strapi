@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "dds",
+  "info": {
+    "singularName": "dd",
+    "pluralName": "dds",
+    "displayName": "BlogDetailsData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "detailedblog": {
+      "type": "json"
+    }
+  }
+}
